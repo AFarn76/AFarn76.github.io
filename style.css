@@ -99,7 +99,7 @@ hr{
     color: rgb(255, 77, 0);
  }
  a:visited{
-    color: darkgreen;
+    color: rgb(0, 42, 100);
  }
  a:hover{
     color: darkgrey;
@@ -107,6 +107,7 @@ hr{
  .aboutme{
     border: #0f1112f8 solid 5px;
     margin-top: 50px;
+    padding-bottom: 20px;
     }
 .treatments{
     border: #231C07 solid 5px;
@@ -117,5 +118,19 @@ hr{
 .contact{
     border: #231C07 solid 5px;
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
 }
+.contact h2 {
+    text-align: left;
+}
+.icon-sm{
+width: 150px;
+margin-bottom: 40px;
+}
+
+
+
+
